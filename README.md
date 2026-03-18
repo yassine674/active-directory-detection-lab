@@ -425,26 +425,9 @@ By completing this lab, you will:
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz)
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 
----
-
-## 👤 Author
-
-**Yassine Moumoun**
-
-- 🎓 Computer Engineering & Cybersecurity Student at INSA Hauts-de-France
-- 💼 Passionate about Detection Engineering & SOC Operations
-- 📧 Email: [yassine127mn@gmail.com](mailto:yassine127mn@gmail.com)
-- 🔗 LinkedIn: [Yassine Moumoun](https://www.linkedin.com/in/yassine-moumoun)
-- 🐙 GitHub: [@yassine674](https://github.com/yassine674)
-
----
 
 <div align="center">
 
 **⭐ Star this repository if you found it useful!**
-
-[![GitHub stars](https://img.shields.io/github/stars/yassine674/active-directory-detection-lab?style=social)](https://github.com/yassine674/active-directory-detection-lab)
-
-*Built with 🔍 for security detection engineering*
 
 </div>
